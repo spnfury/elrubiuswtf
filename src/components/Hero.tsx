@@ -19,10 +19,10 @@ const Hero = () => {
       {/* Content */}
       <div className="container mx-auto px-4 relative z-20 text-center">
         <h1 className="text-5xl md:text-7xl font-extrabold mb-6 text-transparent bg-clip-text bg-gradient-to-r from-red-500 to-purple-600">
-          ElRubiusWTF
+          Fans de ElRubius
         </h1>
         <p className="text-xl md:text-2xl mb-8 max-w-3xl mx-auto text-gray-200">
-          Bienvenidos al sitio oficial de Rubius. Descubre contenido exclusivo, noticias, eventos y mucho más.
+          La comunidad no oficial de fans de Rubius. Compartimos noticias, eventos y todo lo relacionado con nuestro creador favorito.
         </p>
         <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
           <a 
@@ -35,7 +35,7 @@ const Hero = () => {
             href="#shop" 
             className="px-8 py-3 bg-transparent border-2 border-white hover:bg-white/10 rounded-full font-medium transition-all"
           >
-            Tienda Oficial
+            Merchandising
           </a>
         </div>
       </div>

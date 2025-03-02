@@ -26,7 +26,7 @@ function App() {
       <nav className={`fixed w-full z-50 transition-all duration-300 ${scrolled ? 'bg-black/90 backdrop-blur-sm py-2 shadow-lg' : 'bg-transparent py-4'}`}>
         <div className="container mx-auto px-4 flex justify-between items-center">
           <a href="#" className="text-2xl font-bold text-red-500">
-            ElRubiusWTF
+            Fans de ElRubius
           </a>
           
           {/* Desktop Navigation */}
